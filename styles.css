@@ -1,3 +1,7 @@
 body {
   background-image: linear-gradient(goldenrod, yellow);
 }
+.logo-image {
+  width: 175px;
+  height: 110px;
+}
